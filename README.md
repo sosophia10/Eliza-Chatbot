@@ -49,4 +49,5 @@ Once the program is run, the chatbot will start a conversation by asking for you
 
 ## Additional Resources
 Learn more about ELIZA from [Joseph Weizenbaum's Paper](https://en.wikipedia.org/wiki/ELIZA).
+
 Explore the online version of [Eliza](http://www.masswerk.at/elizabot/).
