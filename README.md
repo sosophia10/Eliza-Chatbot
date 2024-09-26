@@ -22,12 +22,12 @@ This project implements a Python-based version of the famous **ELIZA** chatbot, 
 ### Installation Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/eliza-chatbot.git
+   git clone https://github.com/sosophia10/Eliza-Chatbot.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd eliza-chatbot
+   cd Eliza-Chatbot
    ```
 
 3. Clone the repository:
